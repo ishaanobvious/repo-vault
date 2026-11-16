@@ -25,6 +25,7 @@ Star counts are from the day of the review. Verdicts are my own opinion from my 
 
 - **[The 60-second repo check](SAFETY.md):** what to look at before you install anything. This is the `SAFE` keyword.
 - **[Free twins](free-twins.md):** open-source replacements for paid tools. This is the `FREE` and `LOCAL` keywords.
+- **[Earn with GTA 6](earn-with-gta6.md):** the honest version, with clipping campaigns, a free AI clip tool, YouTube rules and scams to avoid. This is the `GTA` keyword.
 - **[vault.py](vault.py):** the script that keeps this table updated and flags repos with trap signs. It's plain Python with no dependencies.
 
 ```bash
